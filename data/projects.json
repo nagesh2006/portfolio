@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Course Tracker",
+      "description": "Track progress across various online platforms."
+    },
+    {
+      "title": "Expense Splitter",
+      "description": "Split bills with friends using Tkinter and SQLite."
+    },
+    {
+      "title": "eBook Reader",
+      "description": "An app similar to Tachiyomi, but for eBooks."
+    }
+  ]
+}
